@@ -6,8 +6,8 @@ Players must press a sequence of buttons for the turtle to move it's arms into p
 
 Currently button combos are...
 
-P1 = W -> S -> SPACE.
-P2 = O -> L -> RIGHT.
+- P1 = W -> S -> SPACE.
+- P2 = O -> L -> RIGHT.
 
 First to the top wins.
 
